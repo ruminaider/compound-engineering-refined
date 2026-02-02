@@ -1,0 +1,23 @@
+{
+  "name": "compound-engineering-refined",
+  "version": "2.22.1-custom",
+  "description": "AI-powered development tools for Django+TypeScript projects. 21 agents, 17 commands, 8 skills for code review, research, design, and workflow automation. Fork of compound-engineering with Rails/Ruby components removed.",
+  "author": {
+    "name": "Kieran Klaassen",
+    "email": "kieran@every.to",
+    "url": "https://github.com/kieranklaassen"
+  },
+  "homepage": "https://every.to/source-code/my-ai-had-already-fixed-the-code-before-i-saw-it",
+  "repository": "https://github.com/ruminaider/compound-engineering-refined",
+  "license": "MIT",
+  "keywords": [
+    "ai-powered",
+    "compound-engineering",
+    "workflow-automation",
+    "code-review",
+    "python",
+    "typescript",
+    "django",
+    "knowledge-management"
+  ]
+}
