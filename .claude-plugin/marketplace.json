@@ -1,18 +1,18 @@
 {
-  "name": "local-custom-plugins",
+  "name": "compound-engineering-refined",
   "owner": {
     "name": "Albert Gwo",
     "url": "https://github.com/ruminaider"
   },
   "metadata": {
-    "description": "Custom forked plugins for Django+TypeScript development",
+    "description": "Refined AI-powered development tools for Django+TypeScript projects",
     "version": "1.0.0"
   },
   "plugins": [
     {
-      "name": "compound-engineering-django-ts",
+      "name": "compound-engineering-refined",
       "description": "AI-powered development tools for Django+TypeScript projects. Fork of compound-engineering with Rails/Ruby components removed.",
-      "version": "2.22.0-custom",
+      "version": "2.22.1-custom",
       "author": {
         "name": "Kieran Klaassen (original), Albert Gwo (fork)"
       },
